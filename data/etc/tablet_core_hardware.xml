@@ -50,6 +50,8 @@
     <!-- Feature to specify if the device support managed users. -->
     <feature name="android.software.managed_users" />
 
+    <feature name="android.hardware.usb.host" />
+
     <!-- devices with GPS must include android.hardware.location.gps.xml -->
     <!-- devices with a rear-facing camera must include one of these as appropriate:
          android.hardware.camera.xml or

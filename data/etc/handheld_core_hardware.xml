@@ -50,6 +50,8 @@
     <!-- Feature to specify if the device support managed users. -->
     <feature name="android.software.managed_users" />
 
+    <feature name="android.hardware.usb.host" />
+
     <!-- Feature to specify if the device supports a VR mode.
          feature name="android.software.vr.mode" -->
     <!-- Devices with all optimizations required to be a "VR Ready" device that
